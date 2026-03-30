@@ -14,9 +14,3 @@ Code for screw strength prediction in BCC random alloys based on Maresca-Curtin-
 2. Run the setup cell.
 3. Enter the required material parameters.
 4. Run the notebook to generate predictions.
-5. Save the CSV and PNG outputs.
-
-## Notes
-
-- GitHub shows notebooks as static files.
-- Use Google Colab to run the notebook interactively.
